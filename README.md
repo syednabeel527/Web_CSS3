@@ -18,6 +18,8 @@ output of my CSS
 <img width="1915" height="946" alt="Screenshot 2026-02-01 220643" src="https://github.com/user-attachments/assets/4f8560a6-f2c4-4faf-89cf-05e0e8e689cc" />
 
 ### CSS Assignment Solved 
+## Assignment 1
 ![Assignment 1 ](images/Assign-1-output.png)
 
-
+## Assignment 2
+![Assignment 2](images/Assign-2-output.png)
